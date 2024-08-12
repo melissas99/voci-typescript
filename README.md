@@ -25,12 +25,5 @@ Il sistema è composto da tre componenti principali:
 
 Assicurati di avere installato Node.js e TypeScript.
 
-### Passaggi per l'Installazione
-
-1. **Clona il repository:**
-   ```bash
-   git clone https://github.com/tuo-username/voci.git
-   cd voci
-
 
 
